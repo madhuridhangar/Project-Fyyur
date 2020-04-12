@@ -1,0 +1,17 @@
+TODOS in app
+1)Find and implement missing fields with migrations
+2)Add fact tables:
+3)Add other tables:
+4)Populate data
+5)Implement queries
+6)Error Handling and Flash Messaging
+
+TODOS in config
+1)Confirm db connection
+
+TODOS in forms.py
+1)Validation on current forms
+2)New artist form
+3)New show form
+
+
