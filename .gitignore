@@ -1,0 +1,6 @@
+/.venv
+/run.sh
+/Dockerfile
+/lib64
+/bin
+/.vscode
