@@ -3,7 +3,6 @@ from fabric.contrib.console import confirm
 
 # prepare for deployment
 
-
 def test():
     with settings(warn_only=True):
         result = local(
