@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/madhuridhangar/https://githubcom/Potential17/Project-Fyyurgit.svg)](http://hits.dwyl.com/madhuridhangar/https://githubcom/Potential17/Project-Fyyurgit)
 Fyyur
 -----
 
